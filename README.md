@@ -56,10 +56,6 @@ I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skybluee2001&layout=compact&show_icons=true&theme=synthwave&langs_count=10)](https://github.com/skybluee2001)
 
-![skybluee2001's](https://githubreadmestats.vercel.app/apiusername=skybluee2001&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skybluee2001&layout=compact&theme=gotham&custom_title=Statistics) 
-
 
 ## Connect With Me
 
@@ -70,5 +66,5 @@ I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech a
  <img alt="Rama's Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 </a>                                                                                                                           
 <a href="mailto:ramaedlabadkar@gmail.com">
-  <img alt="Rama's Email" src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  <img alt="Rama's Email" src="https://img.shields.io/badge/-E--mail-23E60023?style=flat-square&logo=Gmail&logoColor=white" />
 </a> 
