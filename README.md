@@ -24,7 +24,8 @@ I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech a
 - 👯 I look forward to collaborate on Open Source Projects and explore new opportunities.
 
 
-## Languages and tools :
+
+## Tech Stack and Tools
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,9 +50,12 @@ I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech a
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+
+
 ## My Github Stats
 
-![My stats](https://github-readme-stats.vercel.app/api?username=skybluee2001)
+
+![skybluee2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=skybluee2001&count_private=true&show_icons=true)
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybluee2001&layout=compact"/></td></tr></table>
 
