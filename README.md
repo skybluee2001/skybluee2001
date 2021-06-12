@@ -22,14 +22,6 @@ I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech a
 - 👯 I look forward to collaborate on Open Source Projects and explore new opportunities.
 
 
-## My Github Stats
-
-[![skybluee2001's](https://github-readme-stats.vercel.app/api?username=skybluee2001&show_icons=true&theme=synthwave)](https://github.com/skybluee2001)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skybluee2001&layout=compact&show_icons=true&theme=synthwave&langs_count=10)](https://github.com/skybluee2001)
-
-
 ## Languages and tools :
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -54,6 +46,19 @@ I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech a
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+
+
+## My Github Stats
+
+[![skybluee2001's](https://github-readme-stats.vercel.app/api?username=skybluee2001&show_icons=true&theme=synthwave)](https://github.com/skybluee2001)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skybluee2001&layout=compact&show_icons=true&theme=synthwave&langs_count=10)](https://github.com/skybluee2001)
+
+![skybluee2001's](https://githubreadmestats.vercel.app/apiusername=skybluee2001&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skybluee2001&layout=compact&theme=gotham&custom_title=Statistics) 
 
 
 ## Connect With Me
