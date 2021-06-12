@@ -14,12 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
 I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech at Indian Institute Of Technology, Indore.
 
 
 - ⚡ I love to implement innovative ideas and explore new technologies.
 - 🌱 Currently, I am exploring various subdomains of Machine Learning and Artificial Intelligence.
 - 👯 I look forward to collaborate on Open Source Projects and explore new opportunities.
+
+
+## My Github Stats
+
+![My stats](https://github-readme-stats.vercel.app/api?username=skybluee2001)
+
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybluee2001&layout=compact"/></td></tr></table>
+
 
 
 ## Languages and tools :
@@ -48,15 +58,6 @@ I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech a
 ![nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
-
-## My Github Stats
-
-[![skybluee2001's](https://github-readme-stats.vercel.app/api?username=skybluee2001&show_icons=true&theme=synthwave)](https://github.com/skybluee2001)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skybluee2001&layout=compact&show_icons=true&theme=synthwave&langs_count=10)](https://github.com/skybluee2001)
-
-
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/rama-edlabadkar-7377061b1/">
@@ -66,5 +67,6 @@ I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech a
  <img alt="Rama's Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 </a>                                                                                                                           
 <a href="mailto:ramaedlabadkar@gmail.com">
-  <img alt="Rama's Email" src="https://img.shields.io/badge/-E--mail-23E60023?style=flat-square&logo=Gmail&logoColor=white" />
+  <img alt="Rama's Email" src="https://img.shields.io/badge/-E--mail-D00000?style=flat-square&logo=Gmail&logoColor=white" />
 </a> 
+
