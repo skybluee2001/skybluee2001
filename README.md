@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I am Rama Edlabadkar, a Machine Learning Enthusiast, currently pursuing B.Tech at Indian Institute Of Technology, Indore.
-
-
 - ⚡ I love to implement innovative ideas and explore new technologies.
 - 🌱 Currently, I am exploring various subdomains of Machine Learning and Artificial Intelligence.
 - 👯 I look forward to collaborate on Open Source Projects and explore new opportunities.
